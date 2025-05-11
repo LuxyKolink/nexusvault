@@ -1,4 +1,3 @@
--- schema.sql
 CREATE DATABASE IF NOT EXISTS nexusvault_authentication;
 USE nexusvault_authentication;
 
